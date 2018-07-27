@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/520lee/admin-fe.git"
   },
-  "author": "Rosen",
+  "author": "King",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.7",
